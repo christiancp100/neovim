@@ -1,5 +1,8 @@
 require "nvchad.options"
 
+vim.opt.clipboard = 'unnamedplus'
+
+
 -- add yours here!
 
 -- local o = vim.o
